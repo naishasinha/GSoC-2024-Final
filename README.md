@@ -31,7 +31,7 @@ Incoming
 ***
 
 ## Contributions and Accomplishments
-All of the comprehensive code and documentation contributions can be accessed within this pull request: [CC Quantifying PR #115](https://github.com/creativecommons/quantifying/pull/115). For a more detailed perspective on the entire development process, please refer to my blog posts ([Part 1]() and [Part 2]()) on CC's technical blog page. 
+All of the comprehensive code and documentation contributions can be accessed within this pull request: [CC Quantifying PR #116](https://github.com/creativecommons/quantifying/pull/116). For a more detailed perspective on the entire development process, please refer to my blog posts ([Part 1]() and [Part 2]()) on CC's technical blog page. 
 
 ### • Brief Development Process •
 Incoming
