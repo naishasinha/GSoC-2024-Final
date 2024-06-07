@@ -1,6 +1,8 @@
 <div align="center">
-
+  
 # Google Summer of Code 2024: Final Project
+
+***
 
 <img width="1381" alt="Screenshot 2024-06-07 at 12 36 29 AM" src="https://github.com/naishasinha/GoogleSummerOfCode2024-FinalReport/assets/117387359/f6fc2919-725b-4339-9a49-30f8c2f5391b">
 
@@ -40,5 +42,7 @@ Incoming
 
 ## Final Conclusions, Takeaways, and Acknowledgments
 Incoming
+
+***
 
 </div>
