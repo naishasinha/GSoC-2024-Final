@@ -18,11 +18,12 @@
 
 ## Project Description
 
-### • The Problem •
-Incoming
+### • Context and Problem •
+Quantifying the Commons, an initiative emerging from the UC Berkeley Data Science Discovery Program, aims to quantify the frequency of open domain and CC license usage for future accessibility and analysis purposes. Till date, the scope of the previous project advancements have not included automation or combined reporting, which is necessary to reduce minimizing the potential for human error and allowing for more timely updates, especially for a project engaging with large streams of data.
 
 ### • Primary Objectives •
-Incoming
+The overarching goal of this project is to develop an automation software for data gathering, flow, and report generation, ensuring that reports are never more than 3 months out-of-date.
+(More details Incoming)
 
 ### • Overall Impact •
 Incoming
