@@ -37,7 +37,7 @@ Incoming
 
 ### • Data Flow + System Design •
 `1-fetch` `2-process` `3-fetch`
-insert final chart
+<br> insert final chart for system design/data flow here
 
 ### • Tech Stack •
 Incoming
