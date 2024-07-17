@@ -35,8 +35,9 @@ Incoming
 (2) In addition, I've developed an in-depth [documentation page]() for this project, either for those interested in learning and using the software, or developers who will be building upon the code in the future. <br> <br>
 (3) For a more detailed perspective on the entire development process, please refer to my blog posts ([Part 1](https://opensource.creativecommons.org/blog/entries/2024-07-10-automating-quantifying/) and [Part 2]()) on CC's technical blog page. <br>
 
-### • Brief Development Process •
-Incoming
+### • Data Flow + System Design •
+`1-fetch` `2-process` `3-fetch`
+insert final chart
 
 ### • External References •
 Incoming
