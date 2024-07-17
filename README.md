@@ -39,7 +39,7 @@ Incoming
 `1-fetch` `2-process` `3-fetch`
 insert final chart
 
-### • External References •
+### • Tech Stack •
 Incoming
 
 ***
