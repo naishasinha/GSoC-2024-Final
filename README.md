@@ -45,7 +45,7 @@ Incoming
 
 ***
 
-## Final Conclusions, Takeaways, and Acknowledgments
+## Final Conclusions, Acknowledgments, Next Steps
 Incoming
 
 ***
