@@ -26,7 +26,9 @@ The overarching goal of this project is to develop an automation software for da
 (More details Incoming)
 
 ### • Overall Impact •
-Incoming
+With over 2.5 billion licenses globally, Creative Commons has become integral to the digital landscape, facilitating the sharing and utilization of creative works across diverse domains. Therefore, the impact of this initiative extends beyond streamlined processes; it promises to empower researchers, policymakers, and stakeholders with up-to-date insights into the global usage patterns of open domain and CC licensed content. By facilitating more comprehensive and frequent analyses, the project enhances decision-making capabilities and supports informed policy frameworks that foster innovation and accessibility in digital content.
+
+
 
 ***
 
