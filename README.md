@@ -22,8 +22,7 @@
 [Quantifying the Commons](https://github.com/creativecommons/quantifying), an initiative emerging from the UC Berkeley Data Science Discovery Program, aims to quantify the frequency of open domain and CC license usage for future accessibility and analysis purposes. Till date, the scope of the previous project advancements have not included automation or combined reporting, which is necessary to minimize the potential for human error and allowing for more timely updates, especially for a project engaging with substantial streams of data.
 
 ### • Primary Objectives •
-The overarching goal of this project is to develop an automation software for data gathering, flow, and report generation, ensuring that reports are never more than 3 months out-of-date.
-(More details Incoming)
+The overarching goal of this project is to develop an automation software for data gathering, flow, and report generation, ensuring that open-domain and license reports are never more than 3 months out-of-date.
 
 ### • Overall Impact •
 With over 2.5 billion licenses globally, Creative Commons has become integral to the digital landscape, facilitating the sharing and utilization of creative works across diverse domains. Therefore, the impact of this initiative extends beyond streamlined processes; it promises to empower researchers, policymakers, and stakeholders with up-to-date insights into the global usage patterns of open domain and CC licensed content. By setting a precedent for effective data-driven initiatives, Quantifying the Commons and its related undertakings, including this one, pave the way for future advancements in comprehending and leveraging open content licenses worldwide.
