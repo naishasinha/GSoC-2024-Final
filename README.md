@@ -27,14 +27,14 @@ The overarching goal of this project is to develop an automation software for da
 ### • Overall Impact •
 With over 2.5 billion licenses globally, Creative Commons has become integral to the digital landscape, facilitating the sharing and utilization of creative works across diverse domains. Therefore, the impact of this initiative extends beyond streamlined processes; it promises to empower researchers, policymakers, and stakeholders with up-to-date insights into the global usage patterns of open domain and CC licensed content. By setting a precedent for effective data-driven initiatives, Quantifying the Commons and its related undertakings, including this one, pave the way for future advancements in comprehending and leveraging open content licenses worldwide.
 
-
-
 ***
 
 ## Contributions and Accomplishments
 (1) All of the comprehensive code contributions can be accessed within this pull request: [CC Quantifying PR #](). <br> <br>
 (2) In addition, I've developed an in-depth [documentation page]() for this project, either for those interested in learning and using the software, or developers who will be building upon the code in the future. <br> <br>
 (3) For a more detailed perspective on the entire development process, please refer to my blog posts ([Part 1](https://opensource.creativecommons.org/blog/entries/2024-07-10-automating-quantifying/) and [Part 2]()) on CC's technical blog page. <br>
+
+### • Deliverables Finalized Over the Summer Period •
 
 - [ ] Phase 1: Fetch Data
 - [ ] Phase 2: Process Data Outline
@@ -45,19 +45,23 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 - [ ] Added Project Stucture to Contributing
 - [x] Data Flow / System Design
 
-### • Data Flow + System Design •
-`1-fetch` `2-process` `3-fetch`
-<br> insert final chart for system design/data flow here
-
-### • Tech Stack •
+### • Comprehensive Technologies and Tools •
 Incoming
 
 ***
 
 ## Final Conclusions, Acknowledgments, Next Steps
+
+### • takeaways/acknowledgements •
 conclusions <br>
-acknowledgements/gratitude <br>
-next steps
+acknowledgements/gratitude
+
+### • Project System Design + Data Flow •
+`1-fetch` `2-process` `3-fetch`
+<br> insert final chart for system design/data flow here
+
+### • Next Steps •
+incoming
 
 ***
 
