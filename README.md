@@ -48,7 +48,14 @@ Incoming
 ## Final Conclusions, Acknowledgments, Next Steps
 conclusions <br>
 acknowledgements/gratitude <br>
-next steps
+completed + next steps
+
+- [ ] Phase 1: Fetch Data
+- [ ] Phase 2: Process Data Outline
+- [ ] Phase 3: Generate Reports
+- [x] Shared Modules
+- [x] Directory ___ (join ?)
+- [ ] Automation of Phases 1, 2, and 3 with GitHub Actions CI/CD
 
 ***
 
