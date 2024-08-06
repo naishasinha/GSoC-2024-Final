@@ -12,7 +12,7 @@
 | ------------- | ------------- |
 | **Project**:  | [Automating Quantifying the Commons](https://summerofcode.withgoogle.com/programs/2024/projects/vvuGqMLQ)  |
 | **Organization**:  | Creative Commons  |
-| **Mentors:**  | <table><tr><td>**Lead**:</td><td>Timid Robot</td></tr><tr><td>**Supporting**:</td><td>Shafiya Heena, Sara Lovell</td></tr></table> |
+| **Mentors:**  | <table><tr><td>**Lead**:</td><td>Timid Robot Zehta</td></tr><tr><td>**Supporting**:</td><td>Shafiya Heena, Sara Lovell</td></tr></table> |
 
 ***
 
