@@ -43,7 +43,7 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 - [x] Shared Modules
 - [x] Directory ___ (join ?)
 - [ ] Automation of all three phases with GitHub Actions CI/CD
-- [ ] Added Project Stucture to Contributing
+- [ ] Added Project Directory Tree to Contributing
 - [x] Data Flow / System Design
 
 ### • Comprehensive Technologies and Tools •
