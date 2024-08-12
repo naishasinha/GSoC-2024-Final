@@ -42,7 +42,7 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 | Phase 2: Process Data (Outline)  |  |
 | Phase 3: Generate Reports  | |
 | Shared Module | |
-| Directory Sequence (OS) | |
+| Directory Sequence (OS) | Using Operating System (OS) Modules, the codebase successfully interacts the different phases with its respective data storages. |
 | Automation using GitHub Actions CI/CD | |
 | Project Directory Tree | |
 | Data Flow + System Design | |
