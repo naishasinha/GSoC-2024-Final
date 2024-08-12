@@ -36,15 +36,16 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 
 ### • Finalized Deliverables Over the Summer Period •
 
-(turn into table)
-- [ ] Phase 1: Fetch Data
-- [ ] Phase 2: Process Data Outline
-- [ ] Phase 3: Generate Reports
-- [x] Shared Modules
-- [x] Directory ___ (join ?)
-- [ ] Automation of all three phases with GitHub Actions CI/CD
-- [ ] Added Project Directory Tree to Contributing
-- [x] Data Flow / System Design
+| Deliverable | Description|
+| ------------- | ------------- |
+| Phase 1: Fetch Data  |  |
+| Phase 2: Process Data (Outline)  |  |
+| Phase 3: Generate Reports  | |
+| Shared Module | |
+| Directory Sequence (OS) | |
+| Automation using GitHub Actions CI/CD | |
+| Project Directory Tree | |
+| Data Flow + System Design | |
 
 ### • Comprehensive Technologies and Tools •
 Incoming
