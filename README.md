@@ -44,8 +44,9 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 | Shared Module | |
 | Directory Sequence (OS) | Using Operating System (OS) Modules, the codebase successfully interacts the different phases with its respective data storages. |
 | Automation using GitHub Actions CI/CD | |
-| Project Directory Tree | |
+| Project Directory Tree | Added a structured layout of the project (hierarchical representation of directories and files with descriptive comments) will provide future contributors with a clear understanding of the project's organization and help them navigate through different components easily. |
 | Data Flow + System Design | |
+| Comprehensive Documentation |  |
 
 ### • Comprehensive Technologies and Tools •
 Incoming
