@@ -44,6 +44,7 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 | Shared Module | |
 | Directory Sequence (OS) | Using Operating System (OS) Modules, the codebase successfully interacts the different phases with its respective data storages. |
 | Automation using GitHub Actions CI/CD | |
+| Custom Error and Exception Handling System | |
 | Project Directory Tree | Added a structured layout of the project (hierarchical representation of directories and files with descriptive comments), which provides future contributors with a clear understanding of the project's organization and help them navigate through different components easily. |
 | Data Flow + System Design | |
 | Comprehensive Documentation | This document was developed to serve as a reference guide for any contributors having questions or needing detailed clarification on specific topics within the Quantifying codebase — each section has its own page with expanded information. It also includes external references and documentation regarding the languages and tools used for this project. |
