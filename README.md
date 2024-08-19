@@ -60,9 +60,12 @@ Incoming
 
 ## Final Conclusions, Acknowledgments, Next Steps
 
-### • takeaways/acknowledgements •
+### • Conclusions + Gratitude •
 conclusions <br>
-acknowledgements/gratitude
+
+The completion of this project would not have been possible without the constant guidance and insights of my mentor(s). It is remarkable how easily they created a safe
+space for an emerging developer since the very beginning, allowing me to feel open to ask questions and explore new side initiatives that facilitated my growth. The fast
+progress and depth of my deliverables was solely due to the vast techical experience that they constantly shared with me.
 
 ### • Next Steps •
 incoming
