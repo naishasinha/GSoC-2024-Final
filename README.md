@@ -38,11 +38,11 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 
 | Deliverable | Description|
 | ------------- | ------------- |
-| Phase 1: Fetch Data  | Building on previous efforts in the Quantifying project, this phase efficiently fetches raw data from various data sources using APIs. The retrieved data is then stored in a structured CSV format, preparing it for subsequent processing and analysis. |
+| Phase 1: Fetch Data  | Building on previous efforts in the Quantifying project, this phase efficiently fetches raw data from various data sources using APIs. The retrieved data is then stored in a structured CSV format, preparing it for processing and analysis. |
 | Phase 2: Process Data (Outline)  |  |
 | Phase 3: Generate Reports  | The final phase successfuly creates visualizations and reports based on the generated datasets. These reports are designed to present key findings and trends in a clear, concise manner, and have been designed to automatically be integrated into a quarterly README file to provide a comprehensive overview of license data across data sources. |
 | Shared Module | Created a singular, shared module to organize and streamline the codebase, allowing different directories, paths, and components to be imported through that module across different files.|
-| Directory Sequence (OS) | Using Operating System (OS) Modules, the codebase successfully interacts the different phases with its respective data storages. |
+| Directory Sequence (OS) | Using Operating System (OS) Modules, the codebase successfully facilitates the interaction of all three phases, 10 data sources interacts the different phases with its respective data storages. |
 | Automation using GitHub Actions CI/CD | |
 | Custom Error and Exception Handling System | Implemented a custom exception system that centralizes the error-handling logic, keeping the codebases more specific, maintainable, and consistent overall. This system has been thoroughly tested and verified across all three phases. |
 | Project Directory Tree | Added a structured layout of the project (hierarchical representation of directories and files with descriptive comments), which provides developers with a clear understanding of the project's organization and help them navigate through different components easily. |
