@@ -40,7 +40,7 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 | ------------- | ------------- |
 | Phase 1: Fetch Data  |  |
 | Phase 2: Process Data (Outline)  |  |
-| Phase 3: Generate Reports  | generate reports + Automatic README report generation |
+| Phase 3: Generate Reports  | The final phase successfuly creates visualizations and reports based on the generated datasets. These reports are designed to present key findings and trends in a clear, concise manner, and have been designed to automatically be integrated into a quarterly README file to provide a comprehensive overview of license data across data sources. |
 | Shared Module | Created a singular, shared module to organize and streamline the codebase, allowing different directories, paths, and components to be imported through that module across different files.|
 | Directory Sequence (OS) | Using Operating System (OS) Modules, the codebase successfully interacts the different phases with its respective data storages. |
 | Automation using GitHub Actions CI/CD | |
