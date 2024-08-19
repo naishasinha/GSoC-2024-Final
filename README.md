@@ -49,6 +49,10 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 | Data Flow + System Design | Finalized an overall data flow and system design diagram to establish an official framework for the codebase.|
 | Comprehensive Documentation | This document was developed to serve as a reference guide for any contributors having questions or needing detailed clarification on specific topics within the Quantifying codebase — each section has its own page with expanded information. It also includes external references and documentation regarding the languages and tools used for this project. |
 
+### • Project System Design + Data Flow •
+`1-fetch` `2-process` `3-fetch`
+<br> insert final chart for system design/data flow here
+
 ### • Comprehensive Technologies and Tools •
 Incoming
 
@@ -59,10 +63,6 @@ Incoming
 ### • takeaways/acknowledgements •
 conclusions <br>
 acknowledgements/gratitude
-
-### • Project System Design + Data Flow •
-`1-fetch` `2-process` `3-fetch`
-<br> insert final chart for system design/data flow here
 
 ### • Next Steps •
 incoming
