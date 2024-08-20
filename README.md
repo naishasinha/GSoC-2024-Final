@@ -60,8 +60,8 @@ Incoming
 
 ## Final Conclusions, Acknowledgments, Next Steps
 
-### • Conclusions + Gratitude •
-conclusions <br>
+### • Overall Growth + Limitations + Gratitude •
+Although this 12-week period provided a vast amount of time to grow the Quantifying codebase, there were still time and resource constraints that we had to consider; primarily, the lack of data we could collect using the given APIs over this time period. However, as mentioned earlier, given strategic implementations, I was able to still complete the summer goal of developing a baseline automation software for data gathering, flow, and report generation, ensuring script runs on a quarterly basis. Working on this project individually has pushed the boundaries of my skillset and expertise to heights that I had never knew would be possible in such a limited amount of time. Going into this venture, I only had basic experience within full-stack development principles. Upon completion, however, I left with an augmented comprehension of utilizing modular operating systems, strategizing edge-cases and error handling within large data streams, programmatically interacting with software workflows within CI/CD pipelines, and much more. 
 
 The completion of this project would not have been possible without the constant guidance and insights of my mentor(s). It is remarkable how easily they created a safe
 space for an emerging developer since the very beginning, allowing me to feel open to ask questions and explore new side initiatives that facilitated my growth. The fast
