@@ -19,13 +19,22 @@
 ## Project Description
 
 ### • Context and Problem •
+<div align="justify">
+  
 [Quantifying the Commons](https://github.com/creativecommons/quantifying), an initiative emerging from the UC Berkeley Data Science Discovery Program, aims to quantify the frequency of open domain and CC license usage for future accessibility and analysis purposes. Till date, the scope of previous project advancements have not included automation or combined reporting, which is necessary to minimize the potential for human error and allow for more timely updates, especially for a project engaging with substantial streams of data.
+</div>
 
 ### • Primary Objective •
+<div align="justify">
+  
 The overarching goal of this project is to develop automation software for data gathering, flow, and report generation, ensuring that open-domain and license reports are never more than 3 months out-of-date.
+</div>
 
 ### • Overall Impact •
+<div align="justify">
+  
 With over 2.5 billion licenses globally, Creative Commons has become integral to the digital landscape, facilitating the sharing and utilization of creative works across diverse domains. Therefore, the impact of this initiative extends beyond streamlined processes; it promises to empower researchers, policymakers, and stakeholders with up-to-date insights into the global usage patterns of open domain and CC licensed content. By setting a precedent for effective data-driven initiatives, Quantifying the Commons and its related undertakings, including this one, pave the way for future advancements in comprehending and leveraging open content licenses worldwide.
+</div>
 
 ***
 
@@ -67,6 +76,8 @@ Incoming
 ## Final Conclusions, Acknowledgments, Next Steps
 
 ### • Overall Growth + Limitations + Gratitude •
+<div align="justify">
+  
 Although this 12-week period provided a vast amount of time to grow the Quantifying codebase, there were still time and resource constraints that we had to consider; primarily, the lack of data we could collect using the given APIs over this time period. However, as mentioned earlier, given strategic implementations, I was able to still complete the summer goal of developing a baseline automation software for data gathering, flow, and report generation, ensuring script runs on a quarterly basis. 
 
 Working on this project individually has pushed the boundaries of my skillset and expertise to heights that I had never knew would be possible in such a limited amount of time. Going into this venture, I only had basic experience within full-stack development principles. Upon completion, however, I left with an augmented comprehension of utilizing modular operating systems, strategizing edge-cases and error handling for large data streams, programmatically interacting with software workflows within CI/CD pipelines, and much more. 
@@ -74,6 +85,7 @@ Working on this project individually has pushed the boundaries of my skillset an
 The completion of this project would not have been possible without the constant guidance and insights of my mentor(s). It is remarkable how easily they created a safe
 space for an emerging developer since the very beginning, allowing me to feel open to ask questions and explore new side initiatives that facilitated my growth. The fast
 progress and depth of my deliverables was solely due to the vast techical experience that they constantly shared with me.
+</div>
 
 ### • Next Steps •
 incoming
