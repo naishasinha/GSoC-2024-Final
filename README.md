@@ -64,9 +64,12 @@ net code additions across 128 commits and 61 files. <br> <br>
 | Data Flow Diagram (System) | Finalized an overall data flow diagram to establish an official framework for the codebase's system design.|
 | Comprehensive Documentation | This document was developed to serve as a reference guide for any contributors having questions or needing detailed clarification on specific topics within the Quantifying codebase — each section has its own page with expanded information. It also includes external references and documentation regarding the languages and tools used for this project. |
 
-### • Project System Design + Data Flow •
-`1-fetch` `2-process` `3-fetch`
-<br> insert final chart for system design/data flow here
+### • Flow of System and Data •
+`1-fetch` `2-process` `3-report`
+
+
+<img width="70%" alt="Final DFD" src="https://github.com/user-attachments/assets/df329fb0-4ebe-494e-b308-ba84c03b676d">
+
 
 ### • Comprehensive Technologies and Tools •
 Incoming
