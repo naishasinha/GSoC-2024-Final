@@ -72,7 +72,14 @@ net code additions** across **132 commits** and **61 files**. <br> <br>
 
 
 ### • Comprehensive Technologies and Tools •
-Incoming
+
+| Domain | Components |
+| ------------- | ------------- |
+| Python Modules and Libraries: | `logging`, `os`, `datetime`, `gitpython`, `pandas`, `argparse` |
+| Path Management: | `os.path`, `pathlib` |
+| Version Control and Automation: | `git`, `YAML`, `GitHub Actions` |
+| Documentation: | `markdown`, `matplotlib` |
+| Dependency Management: | `Pipfile` |
 
 ***
 
