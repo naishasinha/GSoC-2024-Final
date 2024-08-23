@@ -77,9 +77,10 @@ net code additions** across **132 commits** and **61 files**. <br> <br>
 | ------------- | ------------- |
 | Python Modules and Libraries: | `logging`, `os`, `datetime`, `gitpython`, `pandas`, `argparse`, `matplotlib` |
 | Path Management: | `os.path`, `pathlib` |
-| Version Control and Automation: | `git`, `YAML`, `GitHub Actions` |
-| Documentation: | `markdown` |
+| Version Control and CI/CD Automation: | `git`, `YAML`, `GitHub Actions` |
 | Dependency Management: | `Pipfile` |
+| Error Handling: | `sys` | 
+
 
 ***
 
