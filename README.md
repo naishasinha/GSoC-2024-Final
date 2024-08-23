@@ -27,7 +27,7 @@
 ### • Primary Objective •
 <div align="justify">
   
-The overarching goal of this project is to develop automation software for data gathering, flow, and report generation, ensuring that open-domain and license reports are never more than 3 months out-of-date.
+The overarching goal of this [project](https://opensource.creativecommons.org/programs/project-ideas/#automating-quantifying-the-commons) is to develop automation software for data gathering, flow, and report generation, ensuring that open-domain and license reports are never more than 3 months out-of-date.
 </div>
 
 ### • Overall Impact •
