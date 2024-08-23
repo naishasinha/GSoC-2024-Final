@@ -108,7 +108,7 @@ Furthermore, I am opening several [issues](https://github.com/creativecommons/qu
 - **Enhancing Readibility**: at this early stage for this endeavor, many elements, such as extra comments for development purposes, may be considered as "clutter" later on. Moreover, reports were generated on a general level, and there are many visual improvements that can be made later on. Simple tasks like removing unnecessary comments or shortening report labels can make an effective impact on improving the codebase.
 - **Fletch out Data Details**: once we have a higher capacity the for API fetching period, the current features within the data can be fletched out to incorporate more details. The [pre-automation](https://github.com/creativecommons/quantifying/tree/main/pre-automation) work from the 2022 Data Discovery Program is a good reference point for this.
 
-There are also many other addressable endeavors that are concurrent with these points, such as the expansion of the shared module and documentation. 
+There are also many other addressable endeavors that are concurrent with these points, such as the expansion of the shared module and error-handling. 
 As these initiatives progress, I look forward to seeing the innovative solutions and improvements that will emerge in the coming years!
 
 </div>
