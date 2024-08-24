@@ -42,8 +42,7 @@ With over 2.5 billion licenses globally, Creative Commons has become integral to
 
 <div align="left">
   
-(1) All of the comprehensive code contributions can be accessed within this pull request: [CC Quantifying PR #123](https://github.com/creativecommons/quantifying/pull/123) (merged). In total, I was responsible for **7,619
-net code additions** across **132 commits** and **61 files**. <br> <br>
+(1) All of the comprehensive code contributions can be accessed within this pull request: [CC Quantifying PR #123](https://github.com/creativecommons/quantifying/pull/123) (merged). In total, I was responsible for **7,622 net code additions** across **133 commits** and **61 files**. <br> <br>
 (2) Alongside the technical implementations, I developed an in-depth [documentation page](https://unmarred-gym-686.notion.site/Automating-Quantifying-the-Commons-Documentation-441056ae02364d8a9a51d5e820401db5) for this project, either for those interested in learning and using the software, or developers who will be building upon the code in the future. <br> <br>
 (3) For a more detailed perspective on the entire development process, please refer to my blog posts ([Part 1](https://opensource.creativecommons.org/blog/entries/2024-07-10-automating-quantifying/) and [Part 2](https://opensource.creativecommons.org/blog/entries/2024-08-22-automating-quantifying/)) on CC's technical blog page. <br>
 
